@@ -1,3 +1,18 @@
+This app was created based on Udacity's MyReads project.
+
+## Installation instructions
+
+Go to the folder of your choosing and run the following commands:
+
+### `git clone https://github.com/bconfortin/react-myreads-udacity.git`
+
+Once it's cloned, go into the project directory and run the following commands:
+
+### `npm i --save`
+### `npm start`
+
+The launcher should open your browser automatically. Have fun! Feel free to open issues regarding bugs or odd functionality.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
