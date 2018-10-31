@@ -21,7 +21,7 @@ class BookCard extends Component {
                     {/* to={'/' + this.props.book.title.replace(/[']/g, '').replace(/[^\W\D\S]/g, ' ').split(' ').join('-').toLowerCase()} */}
                     <Link to={'/book/' + this.props.book.id} className="material-card">
                         <div className="material-card-img-container">
-                            <img src={this.props.book.imageLinks.thumbnail} alt="" className="img-fluid"/>
+                            {this.props.book.imageLinks && this.props.book.imageLinks.thumbnail && <img src={this.props.book.imageLinks.thumbnail} alt="" className="img-fluid"/>}
                         </div>
                         <div className="material-card-info-container">
                             {this.props.book.title && <h3 className="material-card-title">{this.props.book.title}</h3>}
