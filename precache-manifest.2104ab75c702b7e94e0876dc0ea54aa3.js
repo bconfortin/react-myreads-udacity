@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/react-myreads-udacity/static/js/runtime~main.5035f199.js"
   },
   {
-    "revision": "00506e8a3f9021af58f8",
-    "url": "/react-myreads-udacity/static/js/main.00506e8a.chunk.js"
+    "revision": "95a007d409e624b7c88b",
+    "url": "/react-myreads-udacity/static/js/main.95a007d4.chunk.js"
   },
   {
     "revision": "91b84ff02d414fcf3b69",
     "url": "/react-myreads-udacity/static/js/1.91b84ff0.chunk.js"
   },
   {
-    "revision": "00506e8a3f9021af58f8",
+    "revision": "95a007d409e624b7c88b",
     "url": "/react-myreads-udacity/static/css/main.7a7bc746.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/react-myreads-udacity/static/css/1.0c25f0b2.chunk.css"
   },
   {
-    "revision": "b273b2ec869f52ee85c7f28b49aca89d",
+    "revision": "f797e049f359094da2ba1e455e60c7b8",
     "url": "/react-myreads-udacity/index.html"
   }
 ];
